@@ -7,7 +7,7 @@
 </div>
   <a href="https://x-bot-md-qr.koyeb.app">
         <p align="center">
-   <img alt="ASWIN SPARKY" height="300" src="https://files.catbox.moe/qax28k.jpg">
+   <img alt="ASWIN SPARKY" height="300" src="https://files.catbox.moe/h2qai0.jpg">
               </p>
   </a>
 </p>
@@ -86,7 +86,7 @@
 
 4. Now Deploy
     <br>
-<a href='https://app.koyeb.com/services/deploy?type=git&repository=github.com/A-S-W-I-N-S-P-A-R-K-Y/X-BOT-MD&branch=main&name=xbotmd&builder=dockerfile&env[SESSION_ID]=%20&env[WORK_TYPE]=public&env[HANDLERS]=.&env[BOT_INFO]=RAHUL-POLICE-OFFICERS;RAHUL_JI;https://api.tioo.eu.org/file/zVEElY3ruylo.jpeg
+<a href='https://app.koyeb.com/services/deploy?type=git&repository=github.com/A-S-W-I-N-S-P-A-R-K-Y/X-BOT-MD&branch=main&name=xbotmd&builder=dockerfile&env[SESSION_ID]=%20&env[WORK_TYPE]=public&env[HANDLERS]=.&env[BOT_INFO]=RAHUL-POLICE-OFFICERS;RAHUL_JI;https://files.catbox.moe/h2qai0.jpg
 &env[SUDO]=919356730236&env[STICKER_DATA]=RAHUL&env[KOYEB_API_KEY]' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=koyeb'/></a>
 
 #### DEPLOY ON RAILWAY
