@@ -44,14 +44,14 @@ Sparky(
       
       const start = new Date().getTime();
   
-let pong = await client.sendMessage(m.jid , { text : "_Checking Ping..._" } , { quoted : m })
+let pong = await client.sendMessage(m.jid , { text : "_rahul-x-bot-connected..._" } , { quoted : m })
 const end = new Date().getTime();
 
 await client.sendMessage(m.jid, { text : '🎉𝒓𝒂𝒉𝒖𝒍 𝒙 𝒃𝒐𝒕 : ${end - start} ms_` , edit : pong.key })
   /*
     const start = new Date().getTime();
   
-let pong = await client.sendMessage(m.jid , { text : "_Checking Ping..._" } , { quoted : m })
+let pong = await client.sendMessage(m.jid , { text : "_RAHUL-X-BOT..._" } , { quoted : m })
 const end = new Date().getTime();
       */
       const start1 = new Date().getTime();
