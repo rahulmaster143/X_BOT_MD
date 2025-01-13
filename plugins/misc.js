@@ -47,7 +47,7 @@ Sparky(
 let pong = await client.sendMessage(m.jid , { text : "_Checking Ping..._" } , { quoted : m })
 const end = new Date().getTime();
 
-await client.sendMessage(m.jid, { text : `_Latency : ${end - start} ms_` , edit : pong.key })
+await client.sendMessage(m.jid, { text : '🎉𝒓𝒂𝒉𝒖𝒍 𝒙 𝒃𝒐𝒕 : ${end - start} ms_` , edit : pong.key })
   /*
     const start = new Date().getTime();
   
