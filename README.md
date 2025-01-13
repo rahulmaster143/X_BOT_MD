@@ -7,7 +7,7 @@
 </div>
   <a href="https://x-bot-md-qr.koyeb.app">
         <p align="center">
-   <img alt="ASWIN SPARKY" height="300" src="https://files.catbox.moe/h2qai0.jpg">
+   <img alt="ASWIN SPARKY" height="300" src="https://files.catbox.moe/qax28k.jpg">
               </p>
   </a>
 </p>
