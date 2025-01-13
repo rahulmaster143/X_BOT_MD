@@ -37,12 +37,12 @@
     "AUDIO_DATA": {
       "description": "Enter Your Owner Name",
       "required": false,
-      "value": "RAHUL-POLICE-OFFICERS;RAHUL_JI;https://api.tioo.eu.org/file/zVEElY3ruylo.jpeg"
+      "value": "RAHUL-POLICE-OFFICERS;RAHUL_JI;https://files.catbox.moe/h2qai0.jpg"
     },
     "BOT_INFO": {
       "description": "Enter Your Owner Number",
       "required": false,
-      "value": "RAHUL-POLICE-OFFICERS;RAHUL_JI;https://api.tioo.eu.org/file/zVEElY3ruylo.jpeg  "
+      "value": "RAHUL-POLICE-OFFICERS;RAHUL_JI;https://files.catbox.moe/h2qai0.jpg"
     },
     "ALWAYS_ONLINE": {
       "description": "Enter Your Bot Name",
